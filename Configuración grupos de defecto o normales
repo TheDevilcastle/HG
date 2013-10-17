@@ -1,0 +1,31 @@
+groups:
+  Nuevo:
+    default: true
+    prefix: '&7[nuevo]'
+    permissions:
+    - essentials.afk
+    - essentials.home
+    - essentials.sethome
+    - modifyworld.*
+    - essentials.help
+    - essentials.list
+    - essentials.rules
+    - essentials.spawn
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.tpa
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.balance
+    - essentials.msg
+    - essentials.warp
+    - essentials.warp.list
+    - sg.arena.join.*
+    - sg.arena.spectate
+    - sg.arena.vote
+    inheritance:
+    - null
+    options:
+      rank: '1000'
+      build: true
+      suffix: ''
